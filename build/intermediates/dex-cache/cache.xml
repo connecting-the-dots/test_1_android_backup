@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/AdrianHsu/Google_Drive/Summer_2015/test_1_android/app/libs/ParseFacebookUtilsV4-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="bab281cc21f6a68152e11ab53b053790ccfd6764">
+        <dex dex="/Users/AdrianHsu/Google_Drive/Summer_2015/test_1_android/app/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.2-0d857a851faea954c2bee5f6f114145e53da8fbb.jar" />
+    </item>
+    <item
+        jar="/Users/AdrianHsu/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/AdrianHsu/Google_Drive/Summer_2015/test_1_android/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-d3804d7a78011e2e00f84315df510af18e2c79e1.jar" />
+    </item>
+    <item
+        jar="/Users/AdrianHsu/Google_Drive/Summer_2015/test_1_android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/AdrianHsu/Google_Drive/Summer_2015/test_1_android/app/build/intermediates/pre-dexed/debug/classes-c09e0c0a642f6e143bb6b897fadafc65b8396803.jar" />
+    </item>
+    <item
+        jar="/Users/AdrianHsu/Google_Drive/Summer_2015/test_1_android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/AdrianHsu/Google_Drive/Summer_2015/test_1_android/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-5d6b62e9866754d8c2ef16e55caecd186f53ce37.jar" />
+    </item>
+    <item
+        jar="/Users/AdrianHsu/Google_Drive/Summer_2015/test_1_android/app/libs/Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="/Users/AdrianHsu/Google_Drive/Summer_2015/test_1_android/app/build/intermediates/pre-dexed/debug/Parse-1.9.2-a0f8f61d8bdd9c328b3bc2858bcc983763bb8c00.jar" />
+    </item>
+    <item
+        jar="/Users/AdrianHsu/Google_Drive/Summer_2015/test_1_android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="152e1df65212df23a4b5dba0e819e63bca93192c">
+        <dex dex="/Users/AdrianHsu/Google_Drive/Summer_2015/test_1_android/app/build/intermediates/pre-dexed/debug/classes-b6c80a185c87d552e4593d7a97e50324afe9e04c.jar" />
+    </item>
+    <item
+        jar="/Users/AdrianHsu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/AdrianHsu/Google_Drive/Summer_2015/test_1_android/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-4214e892e2f40b8189fefc25a6e4a9c61976613a.jar" />
+    </item>
+    <item
+        jar="/Users/AdrianHsu/Google_Drive/Summer_2015/test_1_android/app/libs/mpandroidchartlibrary-2-1-2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="5174e30c198a42ab59241ab8a89d9b5b9c3c909d">
+        <dex dex="/Users/AdrianHsu/Google_Drive/Summer_2015/test_1_android/app/build/intermediates/pre-dexed/debug/mpandroidchartlibrary-2-1-2-307db9b0da5e828b0b62aa50b7c92c137720eb4a.jar" />
+    </item>
+
+</items>
